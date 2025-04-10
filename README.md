@@ -2,6 +2,19 @@
 
 **Kanban Board** is a full-stack Kanban board application designed for agile teams. It includes secure authentication using **JSON Web Tokens (JWT)**, allowing users to safely manage tasks, track progress, and stay productive.
 
+## 📚 Table of Contents
+
+- [Project Description](#project-description)
+- [Features](#features)
+- [User Story](#user-story)
+- [Installation & Usage](#installation--usage)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
+- [Contact](#contact)
+- [Links](#links)
+
+
 ## 🚀 FEATURES
 
 - 🔒 JWT Authentication for secure login/logout  
@@ -16,13 +29,6 @@
 * I WANT a Kanban board with a secure login page
 * SO THAT I can securely access and manage my work tasks
 
-## 📚 Table of Contents
-
-- [Project Description](#project-description)
-- [Installation & Usage](#installation--usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -54,10 +60,6 @@ npm install
 npm start
 ```
 ### Visit http://localhost:3000 to use the app.
-
-## 🏷️ License
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute this software with attribution.
 
 ## 🤝 CONTRIBUTING
 
@@ -109,6 +111,10 @@ You are free to use, modify, and distribute this software with attribution.
 * GitHub: https://github.com/Jason-B0816/KanbanGuardBoard
 
 * Deployed App: https://kanbanguardboard.onrender.com
+
+## 📸 SCREENSHOT
+Here is a screenshot of the Kanban Board in action:
+![Kanban Board Screenshot](client/public/Kanban%20Board%20Screenshot.png)
 
 
 
